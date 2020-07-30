@@ -23,3 +23,7 @@ using 'google-map-react'
 
 
 https://github.com/google-map-react/google-map-react
+
+https://blog.logrocket.com/a-practical-guide-to-integrating-google-maps-in-react/
+
+
